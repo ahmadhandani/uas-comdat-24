@@ -1,0 +1,108 @@
+    1  git --version
+    2  sudo apt update
+    3  sudo apt install git
+    4  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+    5  mvm --v
+    6  mvm install v14.15.4
+    7  node -v
+    8  nvm --v
+    9  nvm install v14.15.4
+   10  node -v
+   11  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24
+   12  cd uas-komdat-24
+   13  cd uas-komdat-24/
+   14  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24
+   15  cd uas-comdat-24/
+   16  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24
+   17  clear
+   18  nvm install v14.15.4
+   19  nvm --v
+   20  nvm install v14.15.4
+   21  node -v
+   22  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24
+   23  clear
+   24  nvm --v
+   25  nvm install v14.15.4
+   26  node -v
+   27  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24
+   28  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24-1
+   29  cd uas-comdat-24-1/
+   30  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24
+   31  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24-1
+   32  clear
+   33  nvm --v
+   34  mvn install v14.15.4
+   35  nvm install v14.15.4
+   36  node -v
+   37  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24
+   38  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24-1
+   39  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24
+   40  git clone https://github.com/misterpotabi/projek-uas-komdat-24
+   41  nvm --v
+   42  nvm install v14.15.4
+   43  git clone https://github.com/misterpotabi/projek-uas-komdat uas-comdat-24
+   44  cd uas-komdat-24/
+   45  is
+   46  is code ,
+   47  git clone https://github.com/misterpotabi/projek-uas-komdat uas-comdat-24
+   48  =m8n 0[-m 
+   49  clear
+   50  git --v
+   51  klear
+   52  git --version
+   53  mvn -v
+   54  nvm -v
+   55  nvm isntall v14.15.4
+   56  node -v
+   57  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24 
+   58  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24-1
+   59  node -v
+   60  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24
+   61  code .
+   62  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24
+   63  code ,
+   64  nvm --v
+   65  nvm install v14.15.4
+   66  node -v
+   67  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24
+   68  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-2024
+   69  code .
+   70  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-2024
+   71  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24-2
+   72  cd uas-komdat-24-2/
+   73  code .
+   74  https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh
+   75  source ~/.nvm/nvm.sh
+   76  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24
+   77  clear
+   78  nvm --v
+   79  nvm install v14.15.4
+   80  node -v
+   81  git clone https://github.com/misterpotabi/projek-uas-komdat uas-comdat-24
+   82  ls
+   83  sudo rm -r uas*
+   84  sudo rm -r uas
+   85  sudo rm -r uas-comdat-24 uas-comdat-2024 uas-comdat-24-1 uas-komdat-24-2
+   86  is
+   87  Is
+   88  sudo rm -r uas-comdat-24 uas-comdat-2024 uas-comdat-24-1 uas-komdat-24-2
+   89  ls
+   90  sudo rm -r uas-comdat-24 uas-comdat-2024 uas-comdat-24-1 uas-komdat-24-2
+   91  Is
+   92  sudo rm -r uas-comdat-24 uas-comdat-2024 uas-comdat-24-1 uas-komdat-24-2
+   93  Is
+   94  sudo rm -r uas-comdat-24 uas-comdat-2024 uas-comdat-24-1 uas-komdat-24-2
+   95  ls
+   96  git clone https://github.com/misterpotabi/projek-uas-komdat uas-comdat-24
+   97  ls
+   98  cd uas-comdat-24/
+   99  ls
+  100  code .
+  101  nvm install
+  102  code .
+  103  nvm install
+  104  nvm run start
+  105  code .
+  106  npm install
+  107  npm run start
+  108  history > command-history.txt
